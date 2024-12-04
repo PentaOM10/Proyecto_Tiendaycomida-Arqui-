@@ -1,4 +1,5 @@
 # Proyecto_Tiendaycomida-Arqui-
+Esto es un proyecto integrador para la Experiencia Educativa Programación e Implementación de Sistemas, sección 703.
 La microempresa ubicada cerca de la Facultad de Arquitectura es un negocio popular entre estudiantes, profesores y personal de la zona. Ofrece comida y productos esenciales, pero enfrenta desafíos en su gestión diaria debido a la falta de un sistema automatizado. Actualmente, todos los registros se realizan manualmente, lo que puede generar errores y retrasos.
 
 Para mejorar su eficiencia y servicio al cliente, la microempresa busca implementar un sistema automatizado que le permita:
